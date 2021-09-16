@@ -1,0 +1,1205 @@
+{
+  "iconPath": "/images/site.png",
+  "array": 1,
+  "id": 101,
+  "latitude": 31.759280,
+  "longitude": 117.191071,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "南门"
+  },
+  "imagePath": "../../images/south.jpg",
+  "sitepoint": "南门"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 1,
+  "id": 102,
+  "latitude": 31.766814,
+  "longitude": 117.188222,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "东门"
+  },
+  "imagePath": "../../images/east.jpg",
+  "sitepoint": "东门"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 1,
+  "id": 103,
+  "latitude": 31.767663,
+  "longitude": 117.179564,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "西门"
+  },
+  "imagePath": "../../images/west.jpg",
+  "sitepoint": "西门"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 1,
+  "id": 104,
+  "latitude": 31.776259,
+  "longitude": 117.185733,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "西北门"
+  },
+  "imagePath": "../../images/northwest.jpg",
+  "sitepoint": "西北门"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 1,
+  "id": 105,
+  "latitude": 31.776259,
+  "longitude": 117.188255,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "东北门"
+  },
+  "imagePath": "../../images/northeast.jpg",
+  "sitepoint": "东北门"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 2,
+  "id": 201,
+  "latitude": 31.767836,
+  "longitude": 117.184875,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "博学北楼"
+  },
+  "imagePath": "../../images/boxuenorth.jpg",
+  "sitepoint": "博学北楼"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 2,
+  "id": 202,
+  "latitude": 31.765866,
+  "longitude": 117.184805,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "博学南楼"
+  },
+  "imagePath": "../../images/boxuesouth.jpg",
+  "sitepoint": "博学南楼"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 2,
+  "id": 203,
+  "latitude": 31.768018,
+  "longitude": 117.183588,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "笃行北楼"
+  },
+  "imagePath": "../../images/duxingnorth.jpg",
+  "sitepoint": "笃行北楼"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 2,
+  "id": 204,
+  "latitude": 31.765647,
+  "longitude": 117.183604,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "笃行南楼"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "笃行南楼"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 2,
+  "id": 205,
+  "latitude": 31.767717,
+  "longitude": 117.186474,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "行知楼"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "行知楼"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 3,
+  "id": 301,
+  "latitude": 31.768899,
+  "longitude": 117.186146,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "理工楼A座"
+  },
+  "imagePath": "../../images/boxuenorth.jpg",
+  "sitepoint": "理工楼A座",
+  zIndex: 9
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 3,
+  "id": 302,
+  "latitude": 31.769145,
+  "longitude": 117.186323,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "理工楼B座"
+  },
+  "imagePath": "../../images/boxuesouth.jpg",
+  "sitepoint": "理工楼B座",
+  zIndex: 8
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 3,
+  "id": 303,
+  "latitude": 31.769875,
+  "longitude": 117.186221,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "理工楼C座"
+  },
+  "imagePath": "../../images/duxingnorth.jpg",
+  "sitepoint": "理工楼C座",
+  zIndex: 7
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 3,
+  "id": 304,
+  "latitude": 31.770454,
+  "longitude": 117.186409,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "理工楼D座"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "理工楼D座",
+  zIndex: 6
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 3,
+  "id": 305,
+  "latitude": 31.770691,
+  "longitude": 117.186533,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "理工楼E座"
+  },
+  "imagePath": "../../images/boxuenorth.jpg",
+  "sitepoint": "理工楼E座",
+  zIndex: 5
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 3,
+  "id": 306,
+  "latitude": 31.771211,
+  "longitude": 117.186602,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "理工楼F座"
+  },
+  "imagePath": "../../images/boxuesouth.jpg",
+  "sitepoint": "理工楼F座",
+  zIndex: 4
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 3,
+  "id": 307,
+  "latitude": 31.771562,
+  "longitude": 117.186565,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "理工楼G座"
+  },
+  "imagePath": "../../images/duxingnorth.jpg",
+  "sitepoint": "理工楼G座",
+  zIndex: 3
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 3,
+  "id": 308,
+  "latitude": 31.771959,
+  "longitude": 117.186592,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "理工楼H座"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "理工楼H座",
+  zIndex: 2
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 3,
+  "id": 309,
+  "latitude": 31.766035,
+  "longitude": 117.186736,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "艺术楼(艺术学院)"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "艺术楼(艺术学院)"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 3,
+  "id": 310,
+  "latitude": 31.765013,
+  "longitude": 117.186565,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "新闻传播学院"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "新闻传播学院"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 3,
+  "id": 311,
+  "latitude": 31.764557,
+  "longitude": 117.186275,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "人文楼(文学院)"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "人文楼(文学院)"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 3,
+  "id": 312,
+  "latitude": 31.764110,
+  "longitude": 117.187825,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "社科楼(法学院)"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "社科楼(法学院)"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 3,
+  "id": 313,
+  "latitude": 31.763754,
+  "longitude": 117.187960,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "社科楼(社政院)"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "社科楼(社政院)"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 3,
+  "id": 314,
+  "latitude": 31.763645,
+  "longitude": 117.187284,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "社科楼(商学院)"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "社科楼(商学院)"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 3,
+  "id": 315,
+  "latitude": 31.763366,
+  "longitude": 117.187214,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "社科楼(经济学院)"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "社科楼(经济学院)"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 3,
+  "id": 316,
+  "latitude": 31.763271,
+  "longitude": 117.187874,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "社科楼(管理学院)"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "社科楼(管理学院)"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 4,
+  "id": 401,
+  "latitude": 31.761610,
+  "longitude": 117.188888,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "办公楼"
+  },
+  "imagePath": "../../images/boxuenorth.jpg",
+  "sitepoint": "办公楼"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 5,
+  "id": 501,
+  "latitude": 31.774513,
+  "longitude": 117.185669,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "磬苑体育馆"
+  },
+  "imagePath": "../../images/boxuenorth.jpg",
+  "sitepoint": "磬苑体育馆"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 5,
+  "id": 502,
+  "latitude": 31.772762,
+  "longitude": 117.183609,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "北体育场"
+  },
+  "imagePath": "../../images/boxuesouth.jpg",
+  "sitepoint": "北体育场"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 5,
+  "id": 503,
+  "latitude": 31.770126,
+  "longitude": 117.184081,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "北运动场"
+  },
+  "imagePath": "../../images/duxingnorth.jpg",
+  "sitepoint": "北运动场"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 5,
+  "id": 504,
+  "latitude": 31.761086,
+  "longitude": 117.186334,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "南运动场"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "南运动场"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 5,
+  "id": 505,
+  "latitude": 31.774627,
+  "longitude": 117.188523,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "东北运动场"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "东北运动场"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 6,
+  "id": 601,
+  "latitude": 31.774225,
+  "longitude": 117.187675,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "研究生食堂"
+  },
+  "imagePath": "../../images/boxuenorth.jpg",
+  "sitepoint": "研究生食堂"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 6,
+  "id": 602,
+  "latitude": 31.770116,
+  "longitude": 117.183282,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "榴园餐厅"
+  },
+  "imagePath": "../../images/boxuesouth.jpg",
+  "sitepoint": "榴园餐厅"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 6,
+  "id": 603,
+  "latitude": 31.769537,
+  "longitude": 117.181839,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "桔园餐厅"
+  },
+  "imagePath": "../../images/duxingnorth.jpg",
+  "sitepoint": "桔园餐厅"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 6,
+  "id": 604,
+  "latitude": 31.764799,
+  "longitude": 117.181538,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "梅园餐厅"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "梅园餐厅"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 6,
+  "id": 605,
+  "latitude": 31.763549,
+  "longitude": 117.184172,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "桂园餐厅"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "桂园餐厅"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 7,
+  "id": 701,
+  "latitude": 31.773646,
+  "longitude": 117.187632,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "蕙园(研究生公寓)"
+  },
+  "imagePath": "../../images/boxuenorth.jpg",
+  "sitepoint": "蕙园(研究生公寓)"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 7,
+  "id": 702,
+  "latitude": 31.771480,
+  "longitude": 117.183078,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "杏园"
+  },
+  "imagePath": "../../images/boxuesouth.jpg",
+  "sitepoint": "杏园"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 7,
+  "id": 703,
+  "latitude": 31.771079,
+  "longitude": 117.182901,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "枣园"
+  },
+  "imagePath": "../../images/duxingnorth.jpg",
+  "sitepoint": "枣园"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 7,
+  "id": 704,
+  "latitude": 31.770276,
+  "longitude": 117.182874,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "榴园"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "榴园"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 7,
+  "id": 705,
+  "latitude": 31.768712,
+  "longitude": 117.181115,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "桔园"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "桔园"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 7,
+  "id": 706,
+  "latitude": 31.768716,
+  "longitude": 117.181785,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "李园"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "李园"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 7,
+  "id": 707,
+  "latitude": 31.767936,
+  "longitude": 117.181399,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "桃园"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "桃园"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 7,
+  "id": 708,
+  "latitude": 31.765747,
+  "longitude": 117.181356,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "梅园"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "梅园"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 7,
+  "id": 709,
+  "latitude": 31.765401,
+  "longitude": 117.181002,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "松园"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "松园"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 7,
+  "id": 710,
+  "latitude": 31.764283,
+  "longitude": 117.182354,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "竹园"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "竹园"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 7,
+  "id": 711,
+  "latitude": 31.763403,
+  "longitude": 117.183180,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "槐园"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "槐园"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 7,
+  "id": 712,
+  "latitude": 31.762947,
+  "longitude": 117.184467,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "桂园"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "桂园"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 7,
+  "id": 713,
+  "latitude": 31.762632,
+  "longitude": 117.184135,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "枫园"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "枫园"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 8,
+  "id": 801,
+  "latitude": 31.772853,
+  "longitude": 117.187890,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "蕙园浴室"
+  },
+  "imagePath": "../../images/boxuenorth.jpg",
+  "sitepoint": "蕙园浴室"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 8,
+  "id": 802,
+  "latitude": 31.769711,
+  "longitude": 117.181801,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "北浴室"
+  },
+  "imagePath": "../../images/boxuesouth.jpg",
+  "sitepoint": "北浴室"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 8,
+  "id": 803,
+  "latitude": 31.763937,
+  "longitude": 117.182086,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "南浴室"
+  },
+  "imagePath": "../../images/duxingnorth.jpg",
+  "sitepoint": "南浴室"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 8,
+  "id": 804,
+  "latitude": 31.770595,
+  "longitude": 117.183174,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "榴园教育超市"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "榴园教育超市"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 8,
+  "id": 805,
+  "latitude": 31.767476,
+  "longitude": 117.181077,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "西门教育超市"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "西门教育超市"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 8,
+  "id": 806,
+  "latitude": 31.764165,
+  "longitude": 117.182118,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "南苑学生超市"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "南苑学生超市"
+}
+{
+  "iconPath": "/images/site.png",
+  "array": 8,
+  "id": 807,
+  "latitude": 31.767489,
+  "longitude": 117.180921,
+  "width": 30,
+  "height": 30,
+  "callout": {
+    "color": "#fff",
+    "borderWidth": 3,
+    "borderRadius": 30,
+    "padding":15,
+    "bgColor": "#0af",
+    "borderColor": "#fff",
+    "fontSize":12, 
+    "content": "农行ATM"
+  },
+  "imagePath": "../../images/duxingsouth.jpg",
+  "sitepoint": "农行ATM"
+}

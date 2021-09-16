@@ -1,0 +1,14 @@
+<!--index.wxml-->
+<view class="container">
+    <image class="background" src='../../images/homebg.jpg' mode="scaleToFill"/>
+    <image class="ahuname" src='../../images/ahu.png' mode="aspectFit"/>
+    <view class="homelink" bindtap="bindVisitAHUTap">
+      <text class="hometext">校园游览</text>
+    </view>
+    <view class="homelink" bindtap="bindIntroAHUtap">
+      <text class="hometext">了解安大</text>
+    </view>
+    <view class="bottom">
+      <text class="address">磬苑校区：合肥市经济技术开发区九龙路111号 邮编:230601\n龙河校区：合肥市肥西路3号 邮编:230039</text>
+    </view>
+</view>

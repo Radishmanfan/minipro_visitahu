@@ -1,0 +1,68 @@
+/**index.wxss**/
+@import "../../style/font.wxss";
+
+page{
+  width:100%;
+  height:100%;
+}
+img{
+  display:block;
+}
+.background{
+  width:100%;
+  height:100%;
+}
+.ahuname{
+  width:50%;
+  height:10%;
+  position: absolute;
+  left:25%;
+  top:20%; 
+}
+.homelink{
+  width:150rpx;
+  height:150rpx;
+  border-radius:50rpx;
+  background-color: rgba(0, 170, 255, 0.5);
+  position: absolute;
+  top:40%;
+}
+.container>view:nth-of-type(1){
+  left:170rpx;
+}
+.container>view:nth-of-type(2){
+  right:170rpx;
+}
+.hometext{
+  display: block;
+  width:100rpx;
+  height:100rpx;
+  line-height:50rpx; 
+  font-size: 49rpx;
+  position: absolute;
+  left:25rpx;
+  top:25rpx;
+  color:#fff;
+  font-weight: bolder;
+  font-family:'YRDZST';
+}
+view.homelink:hover{
+  background-color:rgba(0, 170, 255, 1);
+}
+.bottom{
+  width:750rpx;
+  height:100rpx;
+  background-color:#0af;
+}
+.address{
+  width:750rpx;
+  height:80rpx;
+  text-align: center;
+  font-size: 22rpx;
+  line-height: 40rpx;
+  position: absolute;
+  bottom:10rpx;
+  color: white;
+  font-family:'YRDZST';
+  font-weight: bold;
+}

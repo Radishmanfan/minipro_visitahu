@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/map",
+    "pages/index/intro",
+    "pages/content/viewintro",
+    "pages/content/wrcomment"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#fff",
+    "navigationStyle": "default",
+    "navigationBarBackgroundColor": "#0af",
+    "enablePullDownRefresh": true
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    }
+  },
+  "sitemapLocation": "sitemap.json"
+}

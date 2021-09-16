@@ -1,0 +1,36 @@
+<!--pages/content/viewintro.wxml-->
+<!-- <scroll-view class="intro" scroll-y="true"> -->
+<view class="intro">
+  <view class="siteImageView">
+    <image class="siteImage" src="{{imgUrls}}" />
+  </view>
+  <view class="siteIntro">
+    <text class="siteName">{{imgName}}</text>
+    <image class="gotosign" src="../../images/goto.png" catchtap="openLocationtap" />
+    <text class="introText">
+    安徽大学(Anhui University)是国家“双一流”建设高校，安徽省人民政府与教育部共建高校，安徽省属重点综合性大学。\n
+    </text>
+  </view>
+  <view class="commentsmod">
+    <view class="commodtop">
+      <text class="topleft">地点印记</text>
+      <text class="topright" bindtap="wrcomment">写留言</text>
+    </view>
+    <view class="hasnocomment" wx:if="{{!hascomment}}">
+      <text>还没有留言呢，快来说说吧!</text>
+    </view>
+    <view class="commodcenter" wx:for="{{commentsDetail}}" wx:key="{{item.commentsID}}">
+      <image class="userinfo-avatar" style="background-image: url({{item.userInfo.avatarUrl}})" />
+      <view class="namewithcom">
+        <view class="nwctop">
+          <text class="userinfo-nickname">{{item.userInfo.nickName}}</text>
+          <view class="praisemod" bindtap="praisetap" id="{{index}}" data-commentsid="{{item._id}}" data-praise="{{item.hasPraise}}" data-praisecount="{{item.praiseCount}}" data-praiseuser="{{item.praiseUserID}}">
+            <image class="praiseimg" src="{{item.hasPraise?'../../images/praiseclick.png':'../../images/praise.png'}}" mode="aspectFit" />
+            <text class="praisecount">{{item.praiseCount}}</text>
+          </view>
+        </view>
+        <text class="comments">{{item.comment}}</text>
+      </view>
+    </view>
+  </view>
+</view>

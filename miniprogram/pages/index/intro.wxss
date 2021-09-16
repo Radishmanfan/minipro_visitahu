@@ -1,0 +1,35 @@
+/* pages/index/intro.wxss */
+
+.intro {
+  /* text-align: center; */
+  width: 100%;
+}
+.a1 {
+  width: 750rpx;
+  height: 500rpx;
+}
+.slide-image {
+  width: 750rpx;
+  height: 500rpx;
+}
+.campusIntro{
+  width:650rpx;
+  margin:0px auto;
+  padding:20px 0px;
+}
+.campusNameCN{
+  font-size: 30px;
+  font-weight: bold;
+  padding: 10px 0px;
+  display: block;
+}
+.campusNameEN{
+  font-size: 20px;
+  padding: 10px 0px;
+  display: block;
+}
+.introText{
+  font-size: 13px;
+  padding: 10px 0px;
+  display: block;
+}

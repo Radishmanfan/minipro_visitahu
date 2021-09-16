@@ -1,0 +1,121 @@
+/* pages/index/map.wxss */
+page{
+  height: 100%;
+  width:750rpx;
+}
+.container{
+  position:relative;
+}
+.top{
+  white-space:nowrap;
+  width: 750rpx;
+  height:45px;
+  background-color: #0af;
+}
+.map{
+  width:750rpx;
+  position: relative;
+}
+.unselected,.selected{
+  height:40px;
+  padding: 0rpx 20rpx;
+  line-height:40px;
+  display:inline-block;
+  font-size:16px;
+  font-family: "黑体";
+  text-align: center;
+}
+.unselected{
+  font-weight:inherit;
+  color:#fff;
+}
+.selected{
+  height:35px;
+  border-top:solid 5px;
+  border-bottom:solid 5px;
+  border-radius: 5px;
+  color: #0af;
+  font-weight:bold;
+  background-color: #fff;
+}
+.selfloc{
+  width:70rpx;
+  height:70rpx;
+  position: absolute;
+  right:20rpx;
+  top:60rpx;
+}
+.bottomNo{
+  width:750rpx;
+  height:40px;
+  line-height:38px;
+  position:absolute;
+  bottom:0px;
+}
+.bottomYes{
+  width:750rpx;
+  height:300px;
+  position:absolute;
+  bottom:0px;
+}
+.bottomtop{
+  width:750rpx;
+  height:38px;
+  text-align: center;
+  border-bottom:2px solid #ddd;
+}
+.zi{
+  height:40px;
+  line-height: 40px;
+  display: inline-block;
+}
+.arrow{
+  height:25px;
+  width:25px;
+  vertical-align: middle;
+  /* border:1px solid; */
+}
+.cannotsee{
+  white-space:nowrap;
+  width: 750rpx;
+  height:260px;
+}
+::-webkit-scrollbar {/*滚动条整体样式*/
+  width: 0;     /*高宽分别对应横竖滚动条的尺寸*/
+}
+.siteview{
+  width:650rpx;
+  height:140rpx;
+  margin:0rpx 50rpx;
+  padding:30rpx 0px;
+  border-bottom: 1px solid #eee;
+  position: relative;
+}
+.siteimage{
+  width:210rpx;
+  height:140rpx;
+  display:inline-block;
+  border-radius: 10px;
+  position: absolute;
+  left:0px;
+  /* border: 1px solid; */
+}
+.sitetext{
+  width:340rpx;
+  height:140rpx;
+  line-height: 140rpx;
+  display:inline-block;
+  font-size: 35rpx;
+  /* border: 1px solid; */
+  position: absolute;
+  left:210rpx;
+  text-align: center;
+}
+.gotosign{
+  width:70rpx;
+  height:70rpx;
+  position: absolute;
+  right:10rpx;
+  top:65rpx;
+  /* border: 1px solid;  */
+}

@@ -1,0 +1,29 @@
+<!--pages/index/map.wxml-->
+
+<view class="container">
+  <scroll-view class="top" scroll-x="true">
+    <text wx:for="{{section}}" id="{{item.id}}" wx:key="id" bindtap="navtap" data-place="{{item.place}}" class="{{item.id==currentID?'selected':'unselected'}}">{{item.place}}</text>
+  </scroll-view>
+  <map class="map" style="height:{{mapHeight}}px;" longitude="{{longitude}}" latitude="{{latitude}}" scale="{{scale}}" show-location="true" show-compass="true" markers="{{markers}}" bindcallouttap="callouttap">
+    <cover-image class="selfloc" src="/images/selfloc.png" bindtap="selfloctap"></cover-image>
+  </map>
+  <view class="bottomNo" wx:if="{{!show}}">
+    <view class="bottomtop" bindtap="bottomtap">
+      <text class="zi">共有{{number}}个{{currentPlace}}</text>
+      <image class="arrow" src="../../images/up.png" />
+    </view>
+  </view>
+  <view class="bottomYes" wx:else>
+    <view class="bottomtop" bindtap="bottomtap">
+      <text class="zi">共有{{number}}个{{currentPlace}}</text>
+      <image class="arrow" src="../../images/down.png" />
+    </view>
+    <scroll-view class="cannotsee" scroll-y="true">
+      <view class="siteview" wx:for="{{markers}}" id='{{item.id}}' wx:key="id" data-latitude="{{item.latitude}}" data-longitude="{{item.longitude}}" data-name="{{item.sitepoint}}" data-src="{{item.imagePath}}" bindtap="introtap">
+        <image class="siteimage" src="{{item.imagePath}}" mode="scaleToFill" />
+        <text class="sitetext">{{item.sitepoint}}</text>
+        <image class="gotosign" src="../../images/goto.png" data-latitude="{{item.latitude}}" data-longitude="{{item.longitude}}" data-name="{{item.sitepoint}}" catchtap="gotoLocationtap" />
+      </view>
+    </scroll-view>
+  </view>
+</view>

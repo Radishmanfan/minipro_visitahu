@@ -1,0 +1,11 @@
+<!--pages/content/wrcomment.wxml-->
+<view class="container" wx:if="{{!hasUserInfo && canIUse}}">
+    <button class="button" open-type="getUserInfo" bindgetuserinfo="getUserInfo">授权个人信息</button>
+</view>
+<view class="container" wx:else>
+  <text class="top"><text class="topinner">留言板</text>留下你对<text class="topinright">{{name}}</text>的印象</text>
+  <form class="form" bindsubmit="bindFormSubmit">
+    <textarea class="textarea" maxlength='-1' placeholder="你心中的安大" auto-focus="true" name="textarea" value="{{comment}}"/>
+    <button class="deliver" form-type="submit">留言</button>
+  </form>
+</view>
